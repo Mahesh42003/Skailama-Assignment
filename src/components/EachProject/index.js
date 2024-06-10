@@ -9,7 +9,7 @@ const EachProject=(props) => {
         localStorage.set("Name",Name)
     }
     return(
-        <>
+        <li>
         <Link to="/upload" className="styling-of-each-project" onClick={clickingProject}>
             <div className='flexing-of-each-project'> 
                 <div className='background-color-of-each-box'> 
@@ -21,7 +21,7 @@ const EachProject=(props) => {
                </div>  
             </div> 
         </Link>
-        </>
+        </li>
     )
 }  
 export default EachProject
