@@ -1,0 +1,271 @@
+.Navbar-section {
+    background-color: #F3E8FF;
+    height: 100vh; 
+    width: 25%;
+}
+
+.margin-top-navbar {
+    margin-top: 350px;
+}
+
+.flexing-uploading {
+    display: flex;
+
+}
+
+.adress-of-project-color {
+    color: #7E22CE;
+    margin-left: 20px;
+}
+
+
+.project-color {
+    color: #999999;
+}
+
+.country-logo-size {
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.flex-of-upload {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.flexing-of-up {
+    margin-top: 10px;
+    margin-left: 800px;
+}
+.each-youtube-video{
+    width: 300px;
+    height: 139px;
+    top: 307px;
+    left: 542px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px; 
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 1px solid #999999;
+    display:flex;
+    margin-top: 10px;
+
+}
+
+.Y-logo-size{
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.flexing-of-three-boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.alignment-of-or {
+    text-align: center;
+    color: #999999;
+    margin-top: 10px;
+}
+
+.selecting-file {
+    margin-top: 10px; 
+    width: 80%; 
+    border-style: dotted;
+    border-color: #999999;
+    margin-left: 100px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.upload-size {
+    width: 200px;
+    height: 100px;
+}
+
+.file-text {
+    color: #49454F;
+}
+
+.select-file-button {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #7E22CE;
+    color: #7E22CE;
+    height: 32px;
+    width: 100px;
+    border-radius: 10px;
+} 
+
+.flexing-inside-popup {
+    display: flex;
+    justify-content: space-between;
+} 
+
+.flexing-of-input-item {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.save-button {
+    height: 32px; 
+    background-color: #7E22CE;
+    color: #ffffff; 
+    width: 100px;
+    margin-top: 10px; 
+    border-width: 0px;
+    border-radius: 10px; 
+    margin-left: 600px;
+}
+
+.square-box-projects {
+    width: 1000px;
+    height: 50px;
+    top: 428px;
+    left: 542px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    border: 0.72px 0px 0px 0px;
+    opacity: 0px;
+    margin-left: 20px;
+    background-color: #7E22CE;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.try-it-out {
+    height: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.edit-transcript {
+    width: 100%;
+    height: 748px;
+    top: 292px;
+    left: 554px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border-style: solid;
+    border-color: #7E22CE;
+    margin-left: 15px; 
+    overflow: scroll;
+}
+
+.size-of-edit-mode-button {
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.text-area {
+    margin-top: 20px;
+    
+}
+
+.flexing-discard-and-save-exit-button {
+    display: flex;
+    justify-content: space-between;
+}
+
+.discard-button {
+    height: 32px;
+    width: 90px; 
+    background-color: transparent;
+    border-style: solid;
+    border-color: red;
+    color: red; 
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.save-and-exit-button {
+    background-color: black; 
+    color: #ffffff; 
+    margin-left: 5px; 
+    border-width: 0px; 
+    border-radius: 10px; 
+    margin-top: 30px;
+    height: 32px;
+    width: 90px; 
+}
+
+.background-color-pro {
+    background-color: #7E22CE;
+    color: #ffffff;
+    width: 350px; 
+    height: 32px; 
+    border-radius: 15px;
+}
+
+.background-color-pro1{
+    color: #7E22CE;
+}
+
+.flexing-of-widget-configuration {
+    display: flex; 
+    justify-content: space-evenly;
+}
+
+.flexing-of-general{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.size-of-input-chatbot {
+    width: 70%;
+    height: 5vh;
+}
+
+.labeled-element {
+    font-size: 30px; 
+    font-weight: bold;
+    color: black;
+}
+
+.size-of-primary-color {
+    width: 200px;
+}
+
+.flexing-of-display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.size-of-user {
+    width: 100px;
+}
+
+.size-of-username {
+    height: 40px; 
+    width: 250px; 
+    border-style: solid; 
+    border-color: #49454F; 
+    border-radius: 10px; 
+    text-align: center;
+} 
+
+.size-of-email {
+    height: 40px; 
+    width: 450px; 
+    border-style: solid; 
+    border-color: #49454F; 
+    border-radius: 10px; 
+    text-align: center;
+}
+
+.display-label-element{
+    color: black;
+    font-weight: bold;
+}

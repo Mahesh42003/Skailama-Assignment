@@ -1,0 +1,29 @@
+.styling-of-each-project{
+    list-style-type: none;   
+    width: 400.02px;
+    height: 165.34px;
+    top: 575.12px;
+    left: 733.37px;
+    gap: 0px; 
+    opacity: 0px; 
+    border-style: solid; 
+    border-color: #999999; 
+    border-width: 1px;
+    border-radius: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.flexing-of-each-project {
+    display: flex; 
+    justify-content: space-evenly;
+} 
+
+.background-color-of-each-box {
+    background-color: orange; 
+    color: #ffffff; 
+    margin-top: 20px; 
+    width: 80px;
+    text-align: center; 
+    border-radius: 10px; 
+} 
